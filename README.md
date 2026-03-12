@@ -91,6 +91,8 @@ FaustSynth.jucer        # Projucer project file
 - Tested on Windows 10 with FL Studio 12
 - This is a test/learning project, not production-ready
 
+![FaustSynth](assets/social-preview.png)
+
 ---
 
 *Built using Faust + JUCE*
