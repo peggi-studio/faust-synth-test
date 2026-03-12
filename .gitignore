@@ -1,0 +1,7 @@
+Builds/
+JuceLibraryCode/
+*.vst3
+*.dll
+*.exp
+*.lib
+*.pdb
